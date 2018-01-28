@@ -1,0 +1,4 @@
+current problems
+Mutation rate is bugged out
+not much variation in the children list
+add special characters such as space and fullstop .
